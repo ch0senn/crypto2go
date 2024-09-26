@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-Nuevo archivo",
+      "appliesTo": "Nuevo archivo",
+      "type": "launch"
+    }
+  ]
+}
